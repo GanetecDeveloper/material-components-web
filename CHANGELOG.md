@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [10.1.0](https://github.com/material-components/material-components-web/compare/v10.0.0...v10.1.0) (2021-02-08)
+
+
+### Bug Fixes
+
+* **theme:** replace works for multiple replacements ([95322b1](https://github.com/material-components/material-components-web/commit/95322b11e3b0c938d9b4de56a1ba80d1ff42596b))
+
+
+### Features
+
+* **theme:** add configuration support for custom-properties ([1f318ff](https://github.com/material-components/material-components-web/commit/1f318ff0f033f9f51c8bf7f76ef997161ff62fd4))
+* **theme:** add create-varname() for custom properties ([b522724](https://github.com/material-components/material-components-web/commit/b5227247d730171c02bd71e9b44106cd179aaf2a))
+
+
+
+
+
 # [10.0.0](https://github.com/material-components/material-components-web/compare/v9.0.0...v10.0.0) (2021-02-05)
 
 
